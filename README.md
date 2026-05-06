@@ -2,7 +2,7 @@
 
 코딩테스트 / 알고리즘 풀이 기록.
 
-언어는 Python 3.
+언어는 Python 3, TypeScript.
 
 ## 구조
 
